@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>projectaula</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="projectaula" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://makoto77596.github.io/projectaula/" />
+<meta property="og:url" content="https://makoto77596.github.io/projectaula/" />
+<meta property="og:site_name" content="projectaula" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="projectaula" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","headline":"projectaula","name":"projectaula","url":"https://makoto77596.github.io/projectaula/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/projectaula/assets/css/style.css?v=72c5e42366119e318469b9ae4cf58472ae7ad9a7">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/projectaula/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://makoto77596.github.io/projectaula/">projectaula</a></h1>
+      
+
+      <html>
+<head>
+<body>
+
+&lt;<TITLE>HTML aula texto </TITLE>
+&lt;/HEAD&gt;
+
+<body>
+
+<body background="frutigeraero.png">
+
+</body>
+
+<audio autoplay="true" controls="true" loop="true">
+<source src="aqua.mp3" />
+&lt;/AUDIO&gt;
+
+<img src="jaja.gif" align="left" height="250" width="290" />
+
+<h2 align="center"> PROYECTO AULA </h2>
+<br /><br /><br />
+
+<FONT SIZE="5">La inteligencia artificial (IA) no se utiliza directamente en HTML, ya que HTML es un lenguaje de marcado para estructurar contenido web. Sin embargo, la IA se puede integrar en aplicaciones web que utilizan HTML, CSS y JavaScript de varias maneras:
+<br />
+<FONT SIZE="5"><b><ol>1. Generación de contenido:&lt;/b&gt; La IA puede generar contenido dinámico, como texto o imágenes, que se puede insertar en una página web mediante JavaScript.</ol>
+<FONT SIZE="5"><b><ol>2. Interacción con el usuario:&lt;/b&gt; La IA puede ser utilizada para crear chatbots o asistentes virtuales que interactúan con los usuarios a través de interfaces web.</ol>
+<FONT SIZE="5"><b><ol>3. Análisis de datos:&lt;/b&gt; La IA puede analizar datos de usuarios y comportamiento en una página web para personalizar la experiencia del usuario.</ol>
+<FONT SIZE="5"><b><ol>4. Optimización de la interfaz:&lt;/b&gt; La IA puede ser utilizada para optimizar la interfaz de usuario (UI) y la experiencia del usuario (UX) en una página web.</ol>
+<br />
+<img src="miku.gif" align="center" height="250" width="290" />
+<br />
+<FONT SIZE="5"><b>Algunas tecnologías que combinan IA y web son:<b>
+<br />
+<FONT SIZE="5"><b><ol>1. TensorFlow.js:&lt;/b&gt; Una biblioteca de JavaScript para machine learning en el navegador.</ol>
+<FONT SIZE="5"><b><ol>2. Google Cloud AI Platform:&lt;/b&gt; Una plataforma para desarrollar y desplegar modelos de IA en aplicaciones web.</ol>
+<FONT SIZE="5"><b><ol>3. Microsoft Azure Cognitive Services:&lt;/b&gt; Un conjunto de servicios de IA que se pueden integrar en aplicaciones web.</ol>
+<br />
+<FONT SIZE="10"><b>Aquí les mostramos el uso de HTML que mis compañeros y yo hicimos de la IA de nuestras respectivas materias:</b>
+<br />
+<a align="left" href="proyectoaula.html" style="font-size:30px;">Computación Básica</a>
+<a align="left" href="aula1.html" style="font-size:30px;">Orientación Juvenil y Profesional, Expresión Oral y escrita</a>
+<a align="left" href="proyecto aula2.html" style="font-size:30px;">Filosofía e Inglés</a>
+<a align="left" href="proyectov2.html" style="font-size:30px;">geometría y trigonometría</a>
+</FONT></b></FONT></b></FONT></b></FONT></b></b></FONT></b></FONT></b></FONT></b></FONT></b></FONT></FONT></audio></body></body></head></html>
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>
