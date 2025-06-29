@@ -1,0 +1,43 @@
+<HTML>
+<HEAD>
+<BODY>
+
+<<TITLE>HTML aula texto </TITLE>
+</HEAD>
+
+<BODY>
+
+<BODY BACKGROUND="frutigeraero.png">
+
+</BODY>
+
+<audio autoplay="true" controls="true" loop="true">
+<source src="aqua.mp3">
+</AUDIO>
+
+<img src="jaja.gif" align="left" height="250" width="290">
+
+<h2 align="center"> PROYECTO AULA </h2>
+<br><br><br>
+
+<FONT SIZE="5">La inteligencia artificial (IA) no se utiliza directamente en HTML, ya que HTML es un lenguaje de marcado para estructurar contenido web. Sin embargo, la IA se puede integrar en aplicaciones web que utilizan HTML, CSS y JavaScript de varias maneras:
+<br>
+<FONT SIZE="5"><b><ol>1. Generación de contenido:</b> La IA puede generar contenido dinámico, como texto o imágenes, que se puede insertar en una página web mediante JavaScript.</ol>
+<FONT SIZE="5"><b><ol>2. Interacción con el usuario:</b> La IA puede ser utilizada para crear chatbots o asistentes virtuales que interactúan con los usuarios a través de interfaces web.</ol>
+<FONT SIZE="5"><b><ol>3. Análisis de datos:</b> La IA puede analizar datos de usuarios y comportamiento en una página web para personalizar la experiencia del usuario.</ol>
+<FONT SIZE="5"><b><ol>4. Optimización de la interfaz:</b> La IA puede ser utilizada para optimizar la interfaz de usuario (UI) y la experiencia del usuario (UX) en una página web.</ol>
+<br>
+<img src="miku.gif" align="center" height="250" width="290">
+<br>
+<FONT SIZE="5"><b>Algunas tecnologías que combinan IA y web son:<b>
+<br>
+<FONT SIZE="5"><b><ol>1. TensorFlow.js:</b> Una biblioteca de JavaScript para machine learning en el navegador.</ol>
+<FONT SIZE="5"><b><ol>2. Google Cloud AI Platform:</b> Una plataforma para desarrollar y desplegar modelos de IA en aplicaciones web.</ol>
+<FONT SIZE="5"><b><ol>3. Microsoft Azure Cognitive Services:</b> Un conjunto de servicios de IA que se pueden integrar en aplicaciones web.</ol>
+<br>
+<FONT SIZE="10"><b>Aquí les mostramos el uso de HTML que mis compañeros y yo hicimos de la IA de nuestras respectivas materias:</b>
+<br>
+<a align="left" href="proyectoaula.html" style="font-size:30px;">Computación Básica</a>
+<a align="left" href="aula1.html" style="font-size:30px;">Orientación Juvenil y Profesional, Expresión Oral y escrita</a>
+<a align="left" href="proyecto aula2.html" style="font-size:30px;">Filosofía e Inglés</a>
+<a align="left" href="proyectov2.html" style="font-size:30px;">geometría y trigonometría</a>
